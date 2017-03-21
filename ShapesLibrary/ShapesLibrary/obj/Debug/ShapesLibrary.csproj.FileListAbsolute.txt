@@ -1,0 +1,5 @@
+C:\Users\Esther\Documents\Visual Studio 2013\Projects\ShapesLibrary\ShapesLibrary\bin\Debug\ShapesLibrary.dll
+C:\Users\Esther\Documents\Visual Studio 2013\Projects\ShapesLibrary\ShapesLibrary\bin\Debug\ShapesLibrary.pdb
+C:\Users\Esther\Documents\Visual Studio 2013\Projects\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Esther\Documents\Visual Studio 2013\Projects\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.dll
+C:\Users\Esther\Documents\Visual Studio 2013\Projects\ShapesLibrary\ShapesLibrary\obj\Debug\ShapesLibrary.pdb

@@ -1,0 +1,11 @@
+C:\Users\Esther\documents\visual studio 2013\Projects\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Esther\documents\visual studio 2013\Projects\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.Cache
+C:\Users\Esther\documents\visual studio 2013\Projects\Shapes\Shapes\bin\Debug\WorldofShapes.exe.config
+C:\Users\Esther\Documents\Visual Studio 2013\Projects\Shapes\Shapes\obj\Debug\WorldofShapes.WorldOfShapes.resources
+C:\Users\Esther\Documents\Visual Studio 2013\Projects\Shapes\Shapes\obj\Debug\WorldofShapes.Properties.Resources.resources
+C:\Users\Esther\Documents\Visual Studio 2013\Projects\Shapes\Shapes\bin\Debug\WorldofShapes.exe
+C:\Users\Esther\Documents\Visual Studio 2013\Projects\Shapes\Shapes\bin\Debug\WorldofShapes.pdb
+C:\Users\Esther\Documents\Visual Studio 2013\Projects\Shapes\Shapes\bin\Debug\ShapesLibrary.dll
+C:\Users\Esther\Documents\Visual Studio 2013\Projects\Shapes\Shapes\bin\Debug\ShapesLibrary.pdb
+C:\Users\Esther\Documents\Visual Studio 2013\Projects\Shapes\Shapes\obj\Debug\WorldofShapes.exe
+C:\Users\Esther\Documents\Visual Studio 2013\Projects\Shapes\Shapes\obj\Debug\WorldofShapes.pdb
